@@ -58,7 +58,7 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 - [TypeChecker](https://github.com/mlsteele/TypeChecker)
 - [type_check.py](https://github.com/jhpratt/type_check.py)
 - [relaxed_types](https://github.com/Yipit/relaxed_types)
-
+- [obiwan](https://github.com/williame/obiwan)
 
 
 # Other useful tools/libraries
