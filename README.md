@@ -7,6 +7,7 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 ### Static
 
 - [mypy](https://github.com/python/mypy)
+- [pyre](https://pyre-check.org/)
 - [pytype](https://github.com/google/pytype)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
