@@ -10,6 +10,7 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 - [pyre](https://pyre-check.org/)
 - [pytype](https://github.com/google/pytype)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [pyright](https://github.com/Microsoft/pyright)
 
 ### Dynamic/Runtime
 
