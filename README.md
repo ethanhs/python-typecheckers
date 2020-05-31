@@ -27,6 +27,7 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 - [checktype](https://github.com/emludei/checktype)
 - [py_type](https://github.com/aberkley/py_type)
 - [magic-constraints](https://github.com/huntzhan/magic-constraints)
+- [pydantic](https://github.com/samuelcolvin/pydantic)
 - [typical](https://typical.seandstewart.io)
 - [typity](https://github.com/isidentical/typity)
 - [runtype](https://github.com/erezsh/runtype)
