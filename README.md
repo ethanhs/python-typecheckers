@@ -17,6 +17,7 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 - [enforce](https://github.com/RussBaz/enforce)
 - [typeguard](https://github.com/agronholm/typeguard)
 - [typo](https://github.com/aldanor/typo)
+- [beartype](https://github.com/beartype/beartype)
 - [ducktype](https://github.com/OaklandPeters/ducktype) (Python 2 only?)
 - [strictconf](https://github.com/vmagamedov/strictconf)
 - [pytypecheck](https://github.com/Ran4/pytypecheck)
