@@ -69,6 +69,7 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 - [relaxed_types](https://github.com/Yipit/relaxed_types)
 - [obiwan](https://github.com/williame/obiwan)
 
+
 # Other useful tools/libraries
 
 - [stubgen](https://github.com/dhood/stubgen) (not to be confused with mypy's)
