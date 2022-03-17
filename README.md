@@ -32,6 +32,8 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 - [typical](https://typical.seandstewart.io)
 - [typity](https://github.com/isidentical/typity)
 - [runtype](https://github.com/erezsh/runtype)
+- [dacite](https://github.com/konradhalas/dacite)
+- [dataclasses-json](https://github.com/lidatong/dataclasses-json)
 
 ## Other syntax
 
@@ -66,8 +68,6 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 - [type_check.py](https://github.com/jhpratt/type_check.py)
 - [relaxed_types](https://github.com/Yipit/relaxed_types)
 - [obiwan](https://github.com/williame/obiwan)
-- [dacite](https://github.com/konradhalas/dacite)
-- [dataclasses-json](https://github.com/lidatong/dataclasses-json)
 
 # Other useful tools/libraries
 
