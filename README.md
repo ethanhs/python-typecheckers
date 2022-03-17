@@ -72,3 +72,4 @@ This is a file to keep track of all of the type checkers that exist for Python. 
 
 - [stubgen](https://github.com/dhood/stubgen) (not to be confused with mypy's)
 - [typeassert](https://github.com/renaud/typeassert)
+- [typing_inspect](https://github.com/ilevkivskyi/typing_inspect)
